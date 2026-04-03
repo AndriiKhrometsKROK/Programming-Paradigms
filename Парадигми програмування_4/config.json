@@ -1,0 +1,7 @@
+{
+    "file_name": "text.txt",
+    "target_lang": "en",
+    "module": "module_deep",
+    "output": "screen",
+    "sentences": 3
+}
